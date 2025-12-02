@@ -1,5 +1,6 @@
-module eq1
-( input var logic i0, i1,
+module mod_eq1
+( 
+     input var logic i0, i1,
      output var logic o_eq
 );
 
